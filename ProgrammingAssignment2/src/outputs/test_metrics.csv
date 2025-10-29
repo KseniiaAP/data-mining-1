@@ -1,0 +1,4 @@
+model,accuracy,f1_macro
+GaussianNB,0.4583,0.4496
+DecisionTree,0.4417,0.4344
+RandomForest,0.5083,0.4897
